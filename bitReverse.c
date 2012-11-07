@@ -3,7 +3,7 @@
  *
  *       Filename:  bitReverse.c
  *
- *    Description:  
+ *    Description:  Prgoram to reverse bit representation of an integer.
  *
  *        Version:  1.0
  *        Created:  11/07/12 14:21:07
